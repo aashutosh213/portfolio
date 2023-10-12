@@ -23,7 +23,7 @@ const Info = () => {
                 <h2 className='text-lg py-3 mx-2 font-medium text-slate-500 text-justify'>
                     Recently graduated from Maulana Azad National Institute of Technology, Bhopal, India, where, I earned a Bachelor of Technology in Mechanical Engineering with a GPA of 7.15.
                     I have prepared myself for a career in software engineering. I have a strong foundation in computer science, as well as experience with a variety of programming languages, 
-                    including C, C++, JavaScript, SQL, JQuery, HTML, CSS, React.js, Node.js, Python, and Java(Core). I'm also experienced with a variety of platforms and tools, including git, 
+                    including C, C++, JavaScript, SQL, JQuery, HTML, CSS, React.js, Node.js, Python, and Java(Core). Im also experienced with a variety of platforms and tools, including git, 
                     PostgreSQL, MongoDB, and Firebase. In addition to my technical skills, I was also an active member of Aaroha(An NGO) and enjoys playing volleyball, chess, reading novels, and video games.
                 </h2>
             </div>
