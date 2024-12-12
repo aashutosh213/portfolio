@@ -1,4 +1,11 @@
 export const projectData = [
+
+    {
+        pname:"HPCL Mahotsav: Lucky draw Management System for HPCL-Chhattisgarh",
+        pdetails:"Developed a Lucky Draw Management System for HPCL-Chhattisgarh to manage over 500K user entries and daily operations efficiently. The application handles 100K+ calls daily, leveraging cron jobs for winner management. Built with a React.js and TailwindCSS front-end, it integrates web hooks, API calls, and QR codes for seamless pump operations. The back-end, powered by Node.js, MongoDB, and Mongoose, uses Redis Cache to ensure efficient data handling and a smooth user experience.",
+        ghLink:"NULL",
+        deploy:"https://hpcl-mahotsav.vercel.app/"
+    },
     {
         pname:"Pokedex",
         pdetails:"An exceptional web application designed to revolutionize your Pokemon journey. Developed using cutting-edge technologies such as Next.js, Tailwind CSS, GraphQL, and Apollo Client, seamless navigation and lightning-fast performance, thanks to its implementation of dynamic pagination, server-side rendering (SSR), and client-side rendering (CSR).",
@@ -23,10 +30,4 @@ export const projectData = [
         ghLink:"https://github.com/aashutosh213/Crwn-clothing",
         deploy:"NULL"
     },
-    // {
-    //     pname:"Sentimental Analysis",
-    //     pdetails:"MAde with Python, Selenium, blah blah blah",
-    //     ghLink:"https://github.com/",
-    //     deploy:"NULL"
-    // },
 ];

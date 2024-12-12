@@ -71,7 +71,7 @@ class CarouselComp extends Component {
               >
                 
                 <h5 className='flex text-3xl font-bold py-8 px-10  items-center' >{item.title}<p key={index} className='px-2'>{item.svg}</p></h5>
-                <p className='flex text-base font-medium text-slate-400 px-10 text-justify pb-5'>{item.content}</p>
+                <p className='flex text-base font-medium text-black-400 px-10 text-justify pb-5'>{item.content}</p>
               </div>
             );
           })}
